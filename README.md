@@ -1,24 +1,21 @@
 # 👋 Hi, I'm Vikram Aditya Devarampati
+🚀 Hands-on experience architecting and deploying intelligent AI Agents that combine reasoning, memory, and real-time tool use to deliver measurable business outcomes.
 
-🚀 Passionate **AI Engineer** | Full-Stack Developer | DevOps Enthusiast
+🔹 AI Agent Development – Engineered context-aware agents with multi-step reasoning, embeddings, and Retrieval-Augmented Generation (RAG) for reliable automation.
+🔹 LLM Ecosystem – Practical expertise with proprietary models (OpenAI GPT, Claude, Gemini) and open-source frameworks (Llama 3, Mistral, Hugging Face, Cohere).
+🔹 Frameworks & Orchestration – Built production-grade AI workflows using LangChain, OpenRouter, and custom API integrations.
+🔹 DevOps & Deployment – Strong foundation in Docker, Kubernetes, Jenkins, GitHub Actions, and AWS, ensuring scalable, secure, and cost-optimized AI deployments.
+🔹 Product Engineering Mindset – Delivered AI-powered applications from prototype → production, focusing on scalability, maintainability, and user impact.
 
-## 🔍 About Me
+✨ Highlights:
+✅ Developed AI-driven web apps with intelligent automation features.
+✅ Built & deployed production-ready AI Agents with real-world integrations.
+✅ Applied DevOps pipelines to accelerate delivery and improve reliability.
 
-As an AI Engineer with deep interest in **LLMs (Large Language Models)** and cloud-native development, I specialize in building and deploying intelligent, scalable applications. I bring hands-on experience with powerful tools like **ChatGPT**, **Claude**, **Gemini**, **Llama 3**, **LangChain**, and many more, alongside a full-stack and DevOps skill set.
+📌 Actively seeking opportunities to contribute to product teams by bridging AI innovation + solid engineering practices.
 
-Whether it’s Prompt Engineering, REST API integration, or deploying AI apps using **Docker** and **Kubernetes**, I aim to bridge the gap between cutting-edge AI and real-world solutions.
+🔗 Portfolio & Projects: github.com/vikramadityadevarampati
 
-### 💼 Key Expertise:
-- **LLM Tools & AI Platforms:** ChatGPT, Claude, Gemini, Llama 3, Perplexity, Mistral, Poe, Curser, Windsurf, Bolt, Loveable, Cohere, Writer, You.com, Reka, OpenRouter
-- **Prompt Engineering & LLM Integration**
-- **LangChain** for building RAG and agent-based systems
-- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD pipelines
-- **Full-Stack Development:** React, Node.js, Express, HTML, CSS
-- **Deployment:** Vercel, Containerized environments
-- **Languages:** Python, JavaScript
-
-### 🛠 What I Build:
-I love developing AI-powered applications that solve practical problems—from automating workflows to building intelligent search and summarization tools.
 
 ### 📫 Connect with Me:
 - **LinkedIn:** [linkedin.com/in/vikramdevarampati](https://www.linkedin.com/in/vikramdevarampati)
